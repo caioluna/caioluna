@@ -5,7 +5,7 @@
 
 I'm a front-end developer, from São Paulo - Brasil.
 
-I am currently delving into the world of ReactJS and eager for a carreer oportunity in the area.
+I am currently delving into the world of ReactJS and eager to start my career in the area.
 
 I am also very passionate about design, shapes and colors so you will find a few challenges related to CSS too.
 
