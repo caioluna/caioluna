@@ -5,9 +5,9 @@
 
 I'm a front-end developer, from São Paulo - Brasil.
 
-I am currently delving into the world of ReactJS and eager for a carreer oportunity the area.
+I am currently delving into the world of ReactJS and eager for a carreer oportunity in the area.
 
-I am also very passionate about design, shapes and colors so you will find projects related to CSS too.
+I am also very passionate about design, shapes and colors so you will find a few challenges related to CSS too.
 
 ---
 
@@ -18,7 +18,7 @@ If you want to ask about something or just have a chat, get in touch through my 
 
 ---
 
-Here are a few of the techs I have knowledge in...
+Here are some of the techs I have knowledge in...
 
 <div style="display: inline_block"><br>
   <img align="center" title="HTML" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
