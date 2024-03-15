@@ -3,15 +3,17 @@
 
 <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="150"> 
 
-I'm a front-end developer, from São Paulo - Brasil.
+I am a front-end developer based in São Paulo, Brasil. 
 
-I am currently delving into the world of ReactJS and eager to start my career in the area.
+Currently focused on honing my skills in ReactJS and React Native. 
 
-I am also very passionate about design, shapes and colors so you will find a few challenges related to CSS too.
+Eager to grow in this field, I am enthusiastic about the prospect of advancing my career within the industry. 
+
+Also, my passion for design, particularly in the realm of UI, fuels my desire to continuously improve and take on new challenges.
 
 ---
 
-If you want to ask about something or just have a chat, get in touch through my LinkedIn or e-mail:
+Feel free to contact me via LinkedIn or email if you have any questions or would like to chat further. I'm always available for a conversation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cluna/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccluna@gmail.com)
@@ -21,9 +23,16 @@ If you want to ask about something or just have a chat, get in touch through my 
 Here are some of the techs I have knowledge in...
 
 <div style="display: inline_block"><br>
-  <img align="center" title="HTML" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="Javascript" alt="Javascript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="ReactJS" alt="ReactJS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="Sass" alt="Sass" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img title="React" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img title="Nextjs" alt="Nextjs" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img title="Redux" alt="Redux" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />        
+  <img title="ReactNavigation" alt="ReactNavigation" height="55" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" />   
+  <img title="Typescript" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img title="MUI" alt="MUI" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+  <img title="Git" alt="Git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+          
+          
 </div><br>
+
+      
