@@ -3,13 +3,13 @@
 
 <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="150"> 
 
-I am a front-end developer based in São Paulo, Brasil. 
+I am a front-end developer based in São Paulo, Brasil.
 
-Currently focused on honing my skills in ReactJS and React Native. 
+Currently working with ReactJS and NextJS, but also focused on honing my skills in Swift for iOS development. 
 
-Eager to grow in this field, I am enthusiastic about the prospect of advancing my career within the industry. 
+I’m eager to grow in this field and excited about the opportunity to advance my career. 
 
-Also, my passion for design, particularly in the realm of UI, fuels my desire to continuously improve and take on new challenges.
+My passion for design, especially UI, drives me to keep improving and taking on new challenges.
 
 ---
 
@@ -24,15 +24,9 @@ Here are some of the techs I have knowledge in...
 
 <div style="display: inline_block"><br>
   <img title="React" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img title="Nextjs" alt="Nextjs" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img title="Redux" alt="Redux" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />        
-  <img title="ReactNavigation" alt="ReactNavigation" height="55" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" />   
+  <img title="Nextjs" alt="Nextjs" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />     
   <img title="Typescript" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img title="MUI" alt="MUI" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
-  <img title="Git" alt="Git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
-          
-          
+  <img title="Swift" alt="Swift" height="55" width="55" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swift/swift-original.svg">  
 </div><br>
 
       
