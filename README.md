@@ -26,6 +26,7 @@ Here are some of the techs I have knowledge in...
   <img title="React" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img title="Nextjs" alt="Nextjs" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />     
   <img title="Typescript" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img title="TailwindCSS" alt="TailwindCSS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div><br>
 
       
