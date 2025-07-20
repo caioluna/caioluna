@@ -5,7 +5,7 @@
 
 I am a front-end developer based in São Paulo, Brasil.
 
-Currently working with ReactJS and NextJS, but also focused on honing my skills in Swift for iOS development. 
+Currently focused on honing my skills in ReactJS and React Native.
 
 I’m eager to grow in this field and excited about the opportunity to advance my career. 
 
@@ -26,7 +26,6 @@ Here are some of the techs I have knowledge in...
   <img title="React" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img title="Nextjs" alt="Nextjs" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />     
   <img title="Typescript" alt="Typescript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img title="Swift" alt="Swift" height="55" width="55" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swift/swift-original.svg">  
 </div><br>
 
       
